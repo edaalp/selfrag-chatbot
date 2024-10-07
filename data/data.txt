@@ -1,1 +1,1 @@
-
+Put in your data in .txt format. You can add multiple files to the data folder.
