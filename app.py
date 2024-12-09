@@ -10,7 +10,7 @@ import chainlit as cl
 from langchain_core.prompts import ChatPromptTemplate
 warnings.filterwarnings("ignore")
 
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "YOUR_API_KEY"
 cl.run_sync = False
 documents = []
 question = ""
